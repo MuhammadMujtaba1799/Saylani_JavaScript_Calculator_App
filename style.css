@@ -1,0 +1,23 @@
+.main{
+    /* border:2px solid black; */
+    width: 200px;
+    margin: 0 auto;
+ }
+ 
+ .result{
+    border:2px solid black;
+     width: 100%;
+     background-color: grey;
+ }
+ .ClearBTN{
+    border:2px solid black;
+     margin-top: 10px;
+     width: 100%;
+     background-color: grey;
+ }
+ .btn{
+    border:2px solid black;
+     background-color:grey;
+     width: 45px;
+     margin: 1px;
+ }
